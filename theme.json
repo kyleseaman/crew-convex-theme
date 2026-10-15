@@ -1,0 +1,8 @@
+{
+  "slug": "convex",
+  "name": "Convex",
+  "emoji": "🟧",
+  "level": 1,
+  "formatVersion": 1,
+  "loaderIcons": ["zap", "sun", "star", "sparkles"]
+}
